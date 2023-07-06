@@ -13,7 +13,7 @@
   Hi, mi name is Felipe, an argentinian Full Stack developer 
   <br>
   <br>
-  🔬 I'm currently working on hardware maintenance in <a href="https://cryptorig.com.ar/">CryptoRig</a>, dedicated to the sale of cripto mining rigs
+  🔬 I'm currently working on backend development in <a href="https://solvoweb.com/">Solvo</a> using python.
   <br>
   🎓 I graduated in <a href="https://www.soyhenry.com/">Henry</a> Full Stack course
   <br>
