@@ -15,11 +15,9 @@
   <br>
   🔬 I'm currently working on backend development in <a href="https://solvoweb.com/">Solvo</a> using python.
   <br>
-  🎓 I graduated in <a href="https://www.soyhenry.com/">Henry</a> Full Stack course
+  🎓 Currently studying an Associate degree in programming in <a href="https://utn.edu.ar/es/">UTN Rosario</a>
   <br>
   💻 I love writing code and learn anythings about it
-  <br>
-  📚 I hope to study a technical degree in programming soon
   <br>
   📫 How to reach me: <a href="mailto: garciasuezfelipe@gmail.com">garciasuezfelipe@gmail.com</a>
 </p>
